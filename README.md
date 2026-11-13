@@ -9,8 +9,8 @@ Streum On Studio의 FPS/RPG **E.Y.E: Divine Cybermancy**(Steam판)를 위한 비
 
 | | |
 |---|---|
-| ![스크린샷 1](docs/shot1.jpg) | ![스크린샷 2](docs/shot2.jpg) |
-| ![스크린샷 3](docs/shot3.jpg) | ![스크린샷 4](docs/shot4.jpg) |
+| ![캐릭터 생성](docs/shot1.jpg) | ![게임 내 자막](docs/shot2.jpg) |
+| ![행동 메뉴](docs/shot3.jpg) | ![튜토리얼 메뉴](docs/shot4.jpg) |
 
 ## 번역 범위
 - 메뉴, 설정, 키 설정, 캐릭터 생성, 장비·상점·연구·해킹 등 UI 전부
